@@ -1,6 +1,6 @@
 # Learning-JavaScript-Data-Structures-and-Algorithms
 ## 📋 Rules
-1.매 주마다 공부할 범위를 정한뒤 7일동안 공부한 내용을 개인 저장소, 호스팅, 블로그, Notion 등 모두에게 공게될 수 있는 플랫폼을 통해 기록을 남긴다.
+1.매 주마다 공부할 범위를 정한뒤 7일동안 공부한 내용을 개인 저장소, 호스팅, 블로그, Notion 등 모두에게 공개될 수 있는 플랫폼을 통해 기록을 남긴다.
 
 2.organization안의 [Learning-JavaScript-Data-Structures-and-Algorithms](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms) 우측상단의 `fork` 버튼으로 개인 저장소로 가져간다.
 
