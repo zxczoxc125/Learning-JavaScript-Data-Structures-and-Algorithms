@@ -19,3 +19,19 @@
 9.[공용 저장소 README](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms.git)에 개인별 현황을 기록한다
 
 10.2주 이상 아무것도 진행하지 않을시 패널티 
+
+
+
+## :book: 스터디 진도
+
+### 1주차(19.09.16 ~ 19.09.23)
+
+1. 자바스크립트 개요
+2. 배열
+
+---
+
+
+## :pencil: 개인 공부 현황
+
+### 1주차(19.09.16 ~ 19.09.23)
