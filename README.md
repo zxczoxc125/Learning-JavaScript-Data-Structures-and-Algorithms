@@ -35,3 +35,5 @@
 ## :pencil: 개인 공부 현황
 
 ### 1주차(19.09.16 ~ 19.09.23)
+1. 자바스크립트 개요
+> https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md
