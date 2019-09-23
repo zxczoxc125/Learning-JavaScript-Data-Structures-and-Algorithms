@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9c824c-9895-462c-9477-807b4d546ec1" name="Default Changelist" comment="test">
+    <list default="true" id="8e9c824c-9895-462c-9477-807b4d546ec1" name="Default Changelist" comment="[chapter_02] zxczoxc125 - readme update" />
+    <list id="09f5e436-25dd-48f4-b77a-f808e1b92104" name="ignore" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +22,8 @@
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="402">
-                    <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+                  <first_editor relative-caret-position="387">
+                    <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -69,6 +70,10 @@
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/Learning-JavaScript-Data-Structures-and-Algorithms.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -81,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,6 +97,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,13 +125,15 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8e9c824c-9895-462c-9477-807b4d546ec1" name="Default Changelist" comment="" />
+      <changelist id="09f5e436-25dd-48f4-b77a-f808e1b92104" name="ignore" comment="" />
       <created>1567735952745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567735952745</updated>
       <workItem from="1567735955402" duration="946000" />
       <workItem from="1568631063622" duration="1264000" />
-      <workItem from="1569231504572" duration="207000" />
+      <workItem from="1569232260409" duration="248000" />
+      <workItem from="1569232558132" duration="514000" />
     </task>
     <task id="LOCAL-00001" summary="[]">
       <created>1567736181474</created>
@@ -164,17 +171,17 @@
       <updated>1568632456483</updated>
     </task>
     <task id="LOCAL-00006" summary="test">
-      <created>1569231453495</created>
+      <created>1569232519764</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1569231453495</updated>
+      <updated>1569232519765</updated>
     </task>
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2636000" />
+    <option name="totallyTimeSpent" value="3038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -192,7 +199,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4982382" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017618" side_tool="true" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003524" side_tool="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,8 +220,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="402">
-            <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <first_editor relative-caret-position="387">
+            <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
