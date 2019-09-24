@@ -36,3 +36,4 @@
 
 ### 1주차(19.09.16 ~ 19.09.23)
 - [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/blob/kimchunyong/chapter_01/array.js)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md) [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_02/chapter_02.md)
