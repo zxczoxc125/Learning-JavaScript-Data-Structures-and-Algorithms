@@ -37,3 +37,18 @@
 ### 1주차(19.09.16 ~ 19.09.23)
 - [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/blob/kimchunyong/chapter_01/array.js)
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md) [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_02/chapter_02.md)
+
+---
+---
+
+### 2주차(19.09.23 ~ 19.09.30)
+
+3. 스택
+
+---
+
+
+## :pencil: 개인 공부 현황
+
+### 2주차(19.09.23 ~ 19.09.30)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.md)
