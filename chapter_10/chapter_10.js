@@ -1,4 +1,4 @@
-const array = [1, 100, 4, 10, 56];
+const array = [3, 22, 100, 4, 10, 56, 10];
 
 /**
  * 1. 버블 정렬
@@ -44,3 +44,22 @@ const selectionSort = () => {
 // console.log(array);
 // selectionSort();
 // console.log(array);
+
+/**
+ * 삽입 정렬
+ */
+const insertSort = () => {
+    for (let i = 1; i < array.length; i++) {
+        const std = array[i];
+        let cnt = 0;
+        for (let j = i; j >= 0 && array[j - 1] < std; j--) {
+            array[j] = array[j - 1];
+            cnt++;
+        }
+        array[i - cnt] = std;
+    }
+}
+
+console.log(array);
+insertSort();
+console.log(array);
