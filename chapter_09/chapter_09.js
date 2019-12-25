@@ -92,6 +92,28 @@ const Graph = function () {
             d, pred
         }
     }
+
+    this.dfs = function () {
+        const colors = this.initColors();
+        for (let i = 0; i < vertices.length; i++) {
+            if (colors[vertices[i]] === 'white') {
+                visit(vertices[i], colors);
+            }
+        }
+    }
+
+    const visit = function (u, colors) {
+        colors[u] = 'grey';
+        console.log(u)
+        const neighbors = adjList.get(u);
+        for (let i = 0; i < neighbors.length; i++) {
+            const w = neighbors[i];
+            if (colors[w] === 'white') {
+                visit(w, colors);
+            }
+        }
+        colors[u] = 'black';
+    }
 }
 
 const graph = new Graph();
@@ -106,9 +128,9 @@ graph.addEdge('A', 'D');
 graph.addEdge('C', 'D');
 graph.addEdge('C', 'G');
 graph.addEdge('D', 'G');
-graph.addEdge('D', 'F');
+graph.addEdge('D', 'H');
 graph.addEdge('B', 'E');
-graph.addEdge('B', 'H');
+graph.addEdge('B', 'F');
 graph.addEdge('E', 'I');
 
 
@@ -118,7 +140,7 @@ const pathInfo = graph.bfsCal('A');
 // console.log(pathInfo);
 
 const preds = pathInfo.pred;
-console.log(preds);
+// console.log(preds);
 
 
 const from = myVertices[0];
@@ -128,5 +150,8 @@ for (let i = 0; i < myVertices.length; i++) {
         path.push(to);
     }
     path.push(myVertices[0]);
-    console.log(path.reverse().join(' -> '));
+    // console.log(path.reverse().join(' -> '));
 }
+
+
+graph.dfs();
