@@ -60,6 +60,15 @@ const insertSort = () => {
     }
 }
 
+// console.log(array);
+// insertSort();
+// console.log(array);
+
+
+const mergeSort = () => {
+    
+}
+
 console.log(array);
-insertSort();
+mergeSort();
 console.log(array);
