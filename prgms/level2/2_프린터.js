@@ -1,5 +1,5 @@
 function solution(priorities, location) {
-    const newList = new Array(priorities.length).fill({idx: undefined, priority: undefined}).map((obj, i) => ({idx: i, priority: priorities[i]}));
+    const newList = priorities.map((priority, i) => ({idx: i, priority}));
     const printedList = [];
     while (newList.length) {
         const front = newList[0];
@@ -22,5 +22,4 @@ function solution(priorities, location) {
     return result;
 }
 
-console.log(solution([2, 1, 3, 2], 2));
-console.log(solution([1, 1, 9, 1, 1, 1]	, 0));
+// some이 boolean을 리턴하는 것을 이용한 사람도 있었다.
