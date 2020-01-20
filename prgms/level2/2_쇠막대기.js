@@ -12,8 +12,3 @@ function solution(arrangement) {
 
     return result;
 }
-
-console.log(solution('()(((()())(())()))(())')); // 17
-'|(((||)(|)|))(|)'; // 17
-
-
