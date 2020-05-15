@@ -44,5 +44,3 @@ function solution(genres, plays) {
 
   return answer;
 }
-
-console.dir(solution(['classic', 'pop', 'classic', 'ss'], [500, 600, 150, 222222222222])); // [4, 1, 3, 0]
